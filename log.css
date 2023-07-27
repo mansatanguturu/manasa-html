@@ -1,0 +1,20 @@
+.co{
+    background:white;
+    width:300px;
+    height:400px;
+    position:relative;
+   
+    padding:30px;
+    margin:auto;
+    box-shadow: 0 0 20px 0px black;
+    overflow:hidden;
+    font-size:large;
+   box-sizing:border-box;
+    
+    }
+    .a{
+        background-color: orange;
+        border-radius: 20px;
+        text-align:center;
+
+    }

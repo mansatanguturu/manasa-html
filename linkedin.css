@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    padding:0;
+    
+    font-family:'poppins',sans-serif;
+
+}
+.container{
+    background-color:lightblue;
+   
+   margin:20px;
+    height:800px;
+    border:4px solid black;
+   display:flex;
+}
+.container .a{
+    background-color:beige;
+    width:30%;
+    height:95%;
+    margin:10px;
+    border:4px solid black;
+   display:block;
+
+}
+
+.container .b{
+    height:94%;
+    width:50%;
+    border:2px solid black;
+    margin:10px;
+    padding:5px;
+    display:block;
+    background-color:lightgray;
+}
+
+
+
+
+.container .c{
+    background-color:lightcoral;
+    width:25%;
+    height:94%;
+    margin:10px;
+    border:4px solid black;
+    padding:5px;
+ 
+}
+
+.container .b .child3{
+    background-color:lightskyblue;
+    width:97%;
+    height:35%;
+    margin:5px;
+    border:2px solid black;
+ 
+
+}
+.container .b .child4{
+    background-color:rgb(182, 255, 238);
+    width:97%;
+    height:60%;
+    margin:5px;
+    border:2px solid black;
+ 
+}
+.container .c .child5{
+    background-color:lightseagreen;
+    width:93%;
+    height:50%;
+    margin:5px;
+    border:2px solid black;
+    padding:5px;
+ 
+}
+.container .c .child6{
+    background-color:lightseagreen;
+    width:93%;
+    height:43%;
+    margin:5px;
+    border:2px solid black;
+    padding:5px;
+
+
+
+}
+.container .a .c1{
+    background-color:lightseagreen;
+    width:93%;
+    height:50%;
+    margin:5px;
+    border:2px solid black;
+    padding:5px;
+ 
+}
+.container .a .c2{
+    background-color:lightseagreen;
+    width:93%;
+    height:43%;
+    margin:5px;
+    border:2px solid black;
+    padding:5px;
+
+
+
+}
+.container .b .d{
+    
+    width:95%;
+    height:98%;
+    margin:auto;
+    border:2px solid black;
+   
+    padding:5px;
+}
+ 
+
+/* .container .a .c1{
+    background-color:lightseagreen;
+    width:90%;
+    height:50%;
+    margin:10px;
+    border:2px solid black;
+    padding:10px;
+ 
+}
+.container .a .c2{
+    background-color:black;
+    width:90%;
+    height:43%;
+    margin:10px;
+    border:2px solid black;
+    padding:5px;
+  */
+
+
+
