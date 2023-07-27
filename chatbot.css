@@ -1,0 +1,42 @@
+.chatbot{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    border-radius:30px;
+    position:fixed;
+    bottom:0;
+    right:0;
+    opacity:0.6;
+    font-weight:bolder;
+    justify-content: center;
+    align-items:center;
+    display:flex;
+}
+.s{
+    height:10%;
+    width:100%;
+    background-color:yellowgreen;
+   
+    position:stick;
+    bottom:0;
+    right:0;
+    
+    font-weight:bold;
+    justify-content: center;
+    align-items:center;
+    display:flex;
+}
+.h{
+    height:50%;
+    width:20%;
+    background-color: pink;
+    border-radius:20px;
+    border-color: black;
+}
+.h:hover{
+    height:100px;
+    width:200px;
+    border-radius: 10px;
+    background-color: blue;
+ transition: 0.5ms;
+}
